@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Script to copy SSH keys between servers
-
 echo "Enter the IP or hostname of the DEST server:"
 read dest_server
 echo "Enter the username for the DEST server:"
