@@ -1,7 +1,7 @@
 # SSH Key Copy Script
 This is a simple bash script that allows you to copy your SSH key to a remote server, enabling passwordless authentication.
 
-## Getting Started
+### Getting Started
 To get started, you'll need to have a Unix-based system with bash and SSH installed.
 
 Clone the repository and run the following command:
