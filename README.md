@@ -18,7 +18,7 @@ username for the DEST server: The username to use when connecting to the server 
 ## Note
 This script does not handle any error handling or input validation. It is recommended to use this script in a controlled environment where you trust the input.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
