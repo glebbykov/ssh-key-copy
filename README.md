@@ -5,8 +5,9 @@ This is a simple bash script that allows you to copy your SSH key to a remote se
 To get started, you'll need to have a Unix-based system with bash and SSH installed.
 
 Clone the repository and run the following command:
-
+```
 ./ssh_key_copy.sh
+```
 Using the Script
 Once the script is running, you'll be prompted to enter the following information:
 
